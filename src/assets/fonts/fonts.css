@@ -1,0 +1,39 @@
+/**
+ * Title: Baskerville
+ */
+@font-face {
+  font-family: "Baskerville";
+  font-weight: normal;
+  font-style: normal;
+  src: url("./baskvl.ttf") format("truetype");
+}
+
+/**
+ * Body: AvenirNext
+ */
+@font-face {
+  font-family: "AvenirNext";
+  font-weight: normal;
+  font-style: normal;
+  src: url("./AvenirNextLTPro-Regular.otf") format("opentype");
+}
+
+/**
+ * Tag: GeorgiaBold
+ */
+@font-face {
+  font-family: "GeorgiaBold";
+  font-weight: normal;
+  font-style: normal;
+  src: url("./georgiab.ttf") format("truetype");
+}
+
+/**
+ * Tag: BrandonBold
+ */
+@font-face {
+  font-family: "BrandonBold";
+  font-weight: normal;
+  font-style: normal;
+  src: url("./BrandonText-Bold.otf") format("opentype");
+}
